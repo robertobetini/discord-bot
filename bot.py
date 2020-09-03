@@ -35,4 +35,4 @@ async def on_message(message):
 
 #din.set_interval_salario(usuarios, 0.01, 1) # os usuários recebem 0.01 a casa 1 segundo
 
-client.run('NjkzNjYxNjAxMzQ1MDQ0NDkz.Xv4czw.pWcmonEBhh91Lor_7blq7zGdQl0')
+client.run('') # seu token aqui
