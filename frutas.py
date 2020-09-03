@@ -1,0 +1,1 @@
+todas_frutas = ['banana', 'uva', 'melancia', 'amora', 'morango']
